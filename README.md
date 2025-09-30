@@ -9,10 +9,10 @@
 <img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/c685250c-6ee7-48ca-89b3-f2463cf86d0a" />
 
 # Hasil Setelah ditambahkan Inline CSS
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fe0ed59a-09a3-48c4-85d1-e8b9b16595a6" />
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/1ef9a36f-7af6-4779-8f82-a8af19e93fe2" />
 
 # Hasil Setelah ditambahkan CSS Eksternal
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/27cca364-7062-4ac9-bc1c-5a47c181108c" />
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/14003bc0-0a5b-4f4e-b9d9-597f8fabd076" />
 
 # Hasil Setelah ditambahkan CSS Selector
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d3b79f90-96fe-4140-b2d3-0d4278719eaa" />
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/3da599ad-8686-458f-aa5b-d095f23faa24" />
