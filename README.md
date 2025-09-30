@@ -6,7 +6,7 @@
 <img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/402b11fc-0fea-4050-9108-a3fe9228e07c" />
 
 # Hasil Setelah ditambahkan CSS Internal
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/466432f8-3013-4643-9d09-5e2b938b1c56" />
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/c685250c-6ee7-48ca-89b3-f2463cf86d0a" />
 
 # Hasil Setelah ditambahkan Inline CSS
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fe0ed59a-09a3-48c4-85d1-e8b9b16595a6" />
