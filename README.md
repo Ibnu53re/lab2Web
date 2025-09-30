@@ -3,7 +3,7 @@
 # Kelas: TI.24.A1
 
 # Awal
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/234fd22a-7d7b-41f6-8a64-6bbd18acda7c" />
+<img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/402b11fc-0fea-4050-9108-a3fe9228e07c" />
 
 # Hasil Setelah ditambahkan CSS Internal
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/466432f8-3013-4643-9d09-5e2b938b1c56" />
